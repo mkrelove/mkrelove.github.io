@@ -1,4 +1,4 @@
-Heading
+Welcome to the DyNaMiC Balance Lab!
 =======
 
 SubHeading
@@ -7,9 +7,10 @@ SubHeading
 # DyNaMiC Lab
 
 [Welcome](welcome.md)
+[Lab Members](team.md)
+[Research Basics](research.md)
 [Onboarding Module](module.md)
 [Onboarding Reading List](reading.md)
-
 
 # This is Maureen's site
 
