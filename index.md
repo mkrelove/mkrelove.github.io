@@ -1,25 +1,20 @@
-Welcome to the DyNaMiC Balance Lab!
+Welcome to the Human DyNaMiC Balance Lab! ![LabLogo](docs/Lab%20Logo.jpg)
 =======
+Welcome to the DyNaMiC Team! We focus on understanding mobility behaviour and the underlying neurophysiological processes that govern behaviour. To do this, we use a broad range of theory and techniques drawing from neuroscience, kinesiology, physiology, biomechanics to inform research inquiry. 
 
-SubHeading
-----------
+# DyNaMiC Lab Onboarding
 
-# DyNaMiC Lab
-
-[Welcome](welcome.md)
-[Lab Members](team.md)
-[Research Basics](research.md)
+[Check-List](welcome.md)
 [Onboarding Module](module.md)
 [Onboarding Reading List](reading.md)
+[Practical Assessment](exam.md)
+[Lab Members](team.md)
 
-# This is Maureen's site
 
-  * list item 1
-  * list item 2
+# YorkU Resources
 
-  This is a hyperlink to [Google](http://google.com).
+  * [Faculty of Health](https://www.yorku.ca/health/)
+  * [School of Kinesiology & Health Science](https://www.yorku.ca/health/kinesiology/)
 
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
 
   
