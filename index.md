@@ -8,7 +8,7 @@ Welcome to the DyNaMiC Team! We focus on understanding mobility behaviour and th
 [Onboarding Module](module.md)
 [Onboarding Reading List](reading.md)
 [Practical Assessment](exam.md)
-[Lab Members](team.md)
+[Training Documents](team.md)
 
 
 # YorkU Resources
