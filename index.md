@@ -16,5 +16,7 @@ Welcome to the DyNaMiC Team! We focus on understanding mobility behaviour and th
   * [Faculty of Health](https://www.yorku.ca/health/)
   * [School of Kinesiology & Health Science](https://www.yorku.ca/health/kinesiology/)
   * [Neuroscience Program](https://www.yorku.ca/interdisciplinary/neuroscience/)
+  * [Connected Minds](https://www.yorku.ca/research/connected-minds/)
+  * [Centre for Integrated and Applied Neuroscience (CIAN)](https://www.yorku.ca/research/cian/) 
 
   
