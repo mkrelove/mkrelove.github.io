@@ -8,7 +8,7 @@ PDFs of slides, PDF version of the module
 
 # Lab Contract 
 
-Once you have compeleted the onboarding module, you will need to read, sign, and submit your lab contract to begin the training process. 
+Once you have compeleted the onboarding module, you will need to read, sign, and submit your lab contract to begin the training process. Training documents can be found on [Training Materials](team.md)
 
 [Lab Contract](docs/pdf/DyNaMiC_Lab_Contract.pdf)
 
