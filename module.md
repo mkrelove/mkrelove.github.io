@@ -2,9 +2,9 @@
 
 Welcome to the lab! The onboarding module video is essential to starting in the DyNaMiC lab. 
 
-Embedded YT video (or link)
+Download and open the PowerPoint onboarding module by clicking on the link below. When playing the presentation, click play on the embedded video of the speaker on each slide to listen to each section of the module.
 
-PDFs of slides, PDF version of the module 
+[DyNaMiC Lab Onboarding Module](docs/Onboarding%20Module%20v4.pptx)
 
 # Lab Contract 
 
